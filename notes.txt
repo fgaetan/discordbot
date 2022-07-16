@@ -1,0 +1,6 @@
+le bot doit pouvoir executer les commandes suivantes :
+    - ping ('pong')
+    - help
+    - kick
+    - ban
+    - mute
